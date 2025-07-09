@@ -1,0 +1,7 @@
+ai-customer-service-lab/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+.env
+
