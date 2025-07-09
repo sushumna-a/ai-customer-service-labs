@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "How do I reset my account password?",
+    "answer": "To reset your password, click 'Forgot Password' on the login page and follow the instructions sent to your registered email."
+  },
+  {
+    "id": 2,
+    "question": "How can I check my account balance?",
+    "answer": "Log in to your account and navigate to the 'Account Summary' section to view your current balance."
+  },
+  {
+    "id": 3,
+    "question": "What should I do if I lose my debit card?",
+    "answer": "Immediately report the lost card via the mobile app or call our helpline. We will block your card and issue a new one."
+  },
+  {
+    "id": 4,
+    "question": "How do I dispute a transaction?",
+    "answer": "Go to 'Recent Transactions,' select the disputed item, and click 'Dispute.' Fill out the form to submit your claim."
+  },
+  {
+    "id": 5,
+    "question": "How can I apply for a loan online?",
+    "answer": "Visit the 'Loans' section in your dashboard and click 'Apply Now.' Complete the application form and submit."
+  },
+  {
+    "id": 6,
+    "question": "How do I update my contact information?",
+    "answer": "In the 'Profile' section, click 'Edit' to update your phone number, email, or address, then save the changes."
+  },
+  {
+    "id": 7,
+    "question": "What are the bank’s customer care hours?",
+    "answer": "Our customer care is available 24/7 via chat and phone support."
+  },
+  {
+    "id": 8,
+    "question": "How can I download my account statement?",
+    "answer": "Go to 'Statements,' select your desired period, and click 'Download' to get a PDF copy."
+  },
+  {
+    "id": 9,
+    "question": "How do I enable two-factor authentication?",
+    "answer": "In 'Security Settings,' toggle on two-factor authentication and follow the prompts to set it up."
+  },
+  {
+    "id": 10,
+    "question": "What fees are associated with my account?",
+    "answer": "See the 'Fee Schedule' under the 'Account Info' section for a detailed list of applicable charges."
+  }
+]

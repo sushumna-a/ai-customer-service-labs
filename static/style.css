@@ -8,3 +8,4 @@ input[type="text"] { width: 80%; padding: 8px; border-radius: 4px; border: 1px s
 button { padding: 8px 16px; border: none; background: #2a7ae2; color: #fff; border-radius: 4px; cursor: pointer; }
 button:hover { background: #185fa2; }
 .nav-tabs .nav-link.active { background: #eaf6ff; color: #0b5fa5; }
+.faq-answer { font-size: 1.1em; margin: 20px 0; }

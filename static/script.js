@@ -15,6 +15,9 @@ function sendQuery() {
     .then(data => {
         let entities = data.entities.map(e => `<span class="entity">${e.text} (${e.label})</span>`).join(', ');
         let botMsg = `<b>Intent:</b> ${data.intent}<br><b>Entities:</b> ${entities || 'None'}`;
+        if (data.confidence) {
+            botMsg += `<br><b>Confidence:</b> ${(data.confidence * 100).toFixed(2)}%`;
+        }
         appendMessage('bot', botMsg);
         totalQueries++;
         document.getElementById('total-queries').innerText = totalQueries;

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ faq.question }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>{{ faq.question }}</h2>
+        <div class="faq-answer">
+            <p>{{ faq.answer }}</p>
+        </div>
+        <a href="{{ url_for('home') }}">&#8592; Back to FAQs</a>
+    </div>
+</body>
+</html>
